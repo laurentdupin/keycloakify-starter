@@ -1,0 +1,39 @@
+#kc-form-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+/* #kc-login {
+    width: 100px;
+    background: hsl(from #292929 h s l);
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    color: #D6D6D6;
+} */
+
+#kc-header-wrapper {
+    visibility: hidden;
+}
+
+body {
+    background: none !important;
+}
+
+.kcFormCardClass {
+    background: #D6D6D6;
+}
+
+#kc-info-wrapper {
+    background: #292929 !important;
+    color: #D6D6D6;
+}
+
+.pf-c-button {
+    --pf-c-button--m-primary--BackgroundColor: #292929;
+    border-radius: 10px;
+}
+
+:root {
+ --pf-global--primary-color--100: #292929;
+}
